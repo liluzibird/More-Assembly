@@ -3,5 +3,6 @@ Whatever work I did in assembly
 
 It's GPL v3. Read the license.md and credit me
 
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 
-Copyright (C) %Y  Albert Huynh
+Copyright (C) date  Albert Huynh
