@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Skool\SAC\FALL 2023\CMPR 154\HW1\HW1\main.cpp(37,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Skool\SAC\FALL 2023\CMPR 154\HW1\HW1\main.cpp(54,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HW1.vcxproj -> D:\Skool\SAC\FALL 2023\CMPR 154\HW1\x64\Debug\HW1.exe
